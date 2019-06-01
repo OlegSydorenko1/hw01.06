@@ -1,0 +1,133 @@
+body {
+	margin: 0%;
+	border: 20px solid black;
+	border-color: #2b81ac;
+	background-color: #3399cc;
+	padding: 0;
+	font-family: "Lucida Grande", sans-serif;
+}
+header {
+  text-align: center;
+  margin: 20px;
+  color: white;
+}
+.first {
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 0%;
+}
+.a1 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #3399cc;
+	width:50%;
+	margin: auto;
+}
+.a2 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #33cccc;
+	width:25%;
+}
+.a3 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #996699;
+	width:25%;
+}
+.second {
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 0%;
+}
+.b1 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #c24747;
+	width:25%;
+}
+.b2 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #e2674a;
+	width:25%;
+}
+.b3 {
+	display: inline-block;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #ffcc66;
+	width:25%;
+}
+.b4 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #99cc99;
+	width:25%;
+}
+.third {
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 0%;
+}
+.c1 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #669999;
+	width:25%;
+}
+.c2 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #cc6699;
+	width:50%;
+}
+.c3 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #339966;
+	width:25%;
+}
+.fourth {
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 0%;
+}
+.d1 {
+	display: inline-block;
+	text-align: center;
+	border: 2px solid;
+	border-color: white;
+	border-collapse: collapse;
+	background-color: #666699;
+	text-align: center;
+	width:100%;
+}
